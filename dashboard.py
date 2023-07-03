@@ -563,7 +563,7 @@ def emploi_page():
         civil1_s2 = tk.Toplevel()
         civil1_s2.geometry('900x700+220+5')
         civil1_s2.resizable(False, False)
-        image = Image.open("emplois/civil1.png")
+        image = Image.open("photos/emplois/civil1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(civil1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -581,7 +581,7 @@ def emploi_page():
         civil2_s4 = tk.Toplevel()
         civil2_s4.geometry('900x700+220+5')
         civil2_s4.resizable(False, False)
-        image = Image.open("emplois/GC2.png")
+        image = Image.open("photos/emplois/GC2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(civil2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -599,7 +599,7 @@ def emploi_page():
         gee1_s2 = tk.Toplevel()
         gee1_s2.geometry('900x700+220+5')
         gee1_s2.resizable(False, False)
-        image = Image.open("emplois/GEE1.png")
+        image = Image.open("photos/emplois/GEE1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gee1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -617,7 +617,7 @@ def emploi_page():
         gee2_s4 = tk.Toplevel()
         gee2_s4.geometry('900x700+220+5')
         gee2_s4.resizable(False, False)
-        image = Image.open("emplois/GEE2.png")
+        image = Image.open("photos/emplois/GEE2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gee2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -635,7 +635,7 @@ def emploi_page():
         geer1_s2 = tk.Toplevel()
         geer1_s2.geometry('900x700+220+5')
         geer1_s2.resizable(False, False)
-        image = Image.open("emplois/GEER1.png")
+        image = Image.open("photos/emplois/GEER1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(geer1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -653,7 +653,7 @@ def emploi_page():
         geer2_s4 = tk.Toplevel()
         geer2_s4.geometry('900x700+220+5')
         geer2_s4.resizable(False, False)
-        image = Image.open("emplois/GEER2.png")
+        image = Image.open("photos/emplois/GEER2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(geer2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -671,7 +671,7 @@ def emploi_page():
         gi1_s2 = tk.Toplevel()
         gi1_s2.geometry('900x700+220+5')
         gi1_s2.resizable(False, False)
-        image = Image.open("emplois/GI1.png")
+        image = Image.open("photos/emplois/GI1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gi1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -689,7 +689,7 @@ def emploi_page():
         gi2_s4 = tk.Toplevel()
         gi2_s4.geometry('900x700+220+5')
         gi2_s4.resizable(False, False)
-        image = Image.open("emplois/GI2.png")
+        image = Image.open("photos/emplois/GI2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gi2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -707,7 +707,7 @@ def emploi_page():
         gm1_s2 = tk.Toplevel()
         gm1_s2.geometry('900x700+220+5')
         gm1_s2.resizable(False, False)
-        image = Image.open("emplois/GM1.png")
+        image = Image.open("photos/emplois/GM1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gm1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -725,7 +725,7 @@ def emploi_page():
         gm2_s4 = tk.Toplevel()
         gm2_s4.geometry('900x700+220+5')
         gm2_s4.resizable(False, False)
-        image = Image.open("emplois/GM2.png")
+        image = Image.open("photos/emplois/GM2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(gm2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -743,7 +743,7 @@ def emploi_page():
         id1_s2 = tk.Toplevel()
         id1_s2.geometry('900x700+220+5')
         id1_s2.resizable(False, False)
-        image = Image.open("emplois/ID1.png")
+        image = Image.open("photos/emplois/ID1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(id1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -761,7 +761,7 @@ def emploi_page():
         id2_s4 = tk.Toplevel()
         id2_s4.geometry('900x700+220+5')
         id2_s4.resizable(False, False)
-        image = Image.open("emplois/ID2.png")
+        image = Image.open("photos/emplois/ID2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(id2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -779,7 +779,7 @@ def emploi_page():
         cp1_s2 = tk.Toplevel()
         cp1_s2.geometry('900x700+220+5')
         cp1_s2.resizable(False, False)
-        image = Image.open("emplois/AP1.png")
+        image = Image.open("photos/emplois/AP1.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(cp1_s2, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -797,7 +797,7 @@ def emploi_page():
         cp2_s4 = tk.Toplevel()
         cp2_s4.geometry('900x700+220+5')
         cp2_s4.resizable(False, False)
-        image = Image.open("emplois/AP2.png")
+        image = Image.open("photos/emplois/AP2.png")
         photo = ImageTk.PhotoImage(image)
         label = tk.Label(cp2_s4, image=photo)
         label.image = photo  # Store the photo as an attribute of the label
@@ -1137,7 +1137,7 @@ def notes_page():
             dele_gc = tk.Toplevel()
             dele_gc.geometry('900x1300+220+5')
             dele_gc.resizable(False, False)
-            image = Image.open("notes/deleberation/GC1-DELE.jpg")
+            image = Image.open("photos/notes/deleberation/GC1-DELE.jpg")
             photo = ImageTk.PhotoImage(image)
             label = tk.Label(dele_gc, image=photo)
             label.image = photo  # Store the photo as an attribute of the label
@@ -1189,27 +1189,27 @@ def notes_page():
         civil_frame.place(x=0, y=30, height=600, width=1200)
 
 #the front 1 of notes---------------------------------------------------------------
-    note_gc = tk.PhotoImage(file='notes/gc.png')
+    note_gc = tk.PhotoImage(file='photos/notes/gc.png')
     button_notegc = ctk.CTkButton(notes_frame, border_width=0, image=note_gc, fg_color='#eaefff'
                                  , compound="left", height=70, width=200, hover_color='#dee3f2',
                                  text='         Génie civil                  ', font=('', 18, 'bold'), text_color='#565659', corner_radius=10,command=civil)
     button_notegc.place(x=60, y=100)
 
 
-    note_gi = tk.PhotoImage(file='notes/gi.png')
+    note_gi = tk.PhotoImage(file='photos/notes/gi.png')
     button_notegi = ctk.CTkButton(notes_frame, border_width=0, image=note_gi, fg_color='#eaefff'
                                   , compound="left", height=70, width=200, hover_color='#dee3f2',
                                   text='        Génie informatique                ', font=('', 18, 'bold'), text_color='#565659', corner_radius=10)
     button_notegi.place(x=450, y=100)
 
 
-    note_id = tk.PhotoImage(file='notes/id.png')
+    note_id = tk.PhotoImage(file='photos/notes/id.png')
     button_noteid = ctk.CTkButton(notes_frame, border_width=0, image=note_id, fg_color='#eaefff'
                                   , compound="left", height=70, width=200, hover_color='#dee3f2',
                                   text='  Ingénierie des données      ', font=('', 18, 'bold'), text_color='#565659', corner_radius=10)
     button_noteid.place(x=60, y=200)
 
-    note_geer = tk.PhotoImage(file='notes/geer.png')
+    note_geer = tk.PhotoImage(file='photos/notes/geer.png')
     button_notegeer = ctk.CTkButton(notes_frame, border_width=0, image=note_geer, fg_color='#eaefff'
                                   , compound="left", height=70, width=200, hover_color='#dee3f2',
                                   text='Génie énergétique et énergies    \nrenouvelables                    ', font=('', 18, 'bold'), text_color='#565659',
@@ -1217,7 +1217,7 @@ def notes_page():
     button_notegeer.place(x=450, y=200)
 
 
-    note_gee = tk.PhotoImage(file='notes/gee.png')
+    note_gee = tk.PhotoImage(file='photos/notes/gee.png')
     button_notegee = ctk.CTkButton(notes_frame, border_width=0, image=note_gee, fg_color='#eaefff'
                                     , compound="left", height=70, width=200, hover_color='#dee3f2',
                                     text='Génie de l’Eau et  \nde l’Environnement            ', font=('', 18, 'bold'),
@@ -1225,7 +1225,7 @@ def notes_page():
                                     corner_radius=10)
     button_notegee.place(x=60, y=300)
 
-    note_gm = tk.PhotoImage(file='notes/gm.png')
+    note_gm = tk.PhotoImage(file='photos/notes/gm.png')
     button_notegm = ctk.CTkButton(notes_frame, border_width=0, image=note_gm, fg_color='#eaefff'
                                    , compound="left", height=70, width=200, hover_color='#dee3f2',
                                    text=' Génie Mécanique                         ', font=('', 18, 'bold'),
@@ -1233,7 +1233,7 @@ def notes_page():
                                    corner_radius=10)
     button_notegm.place(x=450, y=300)
 
-    note_cp = tk.PhotoImage(file='notes/cp.png')
+    note_cp = tk.PhotoImage(file='photos/notes/cp.png')
     button_notecp = ctk.CTkButton(notes_frame, border_width=0, image=note_cp, fg_color='#eaefff'
                                   , compound="left", height=70, width=200, hover_color='#dee3f2',
                                   text='Cycle Préparatoire Intégré  ', font=('', 18, 'bold'),
