@@ -17,7 +17,8 @@ E-Connect is a student management system designed to offer an innovative solutio
 <img width="960" alt="12" src="https://github.com/HananeNadi/Student_Management_System/assets/127529925/0bc2309d-7547-4cb3-9b37-9456d84fc095">
 
 ## Personal informations 
-<img width="960" alt="14" src="https://github.com/HananeNadi/Student_Management_System/assets/127529925/c4239303-eeef-47f9-9071-830d1ba9e5c9">
+<img width="949" alt="1" src="https://github.com/HananeNadi/Student_Management_System/assets/127529925/93d546dc-b4b7-4963-b932-4fef7a91e87f">
+
 
 ## Change Password
 <img width="960" alt="15" src="https://github.com/HananeNadi/Student_Management_System/assets/127529925/4f83bdc6-f219-4fbe-9f9d-1a507c3f18b3">
@@ -48,7 +49,9 @@ E-Connect is a student management system designed to offer an innovative solutio
 - **Python :** Python is used for the backend development of E-Connect.
 
 - **MySQL :** The application relies on MySQL for efficient data storage and management.
-   # Authors
+
+
+ # Authors
 
 - [@HananeNadi](https://github.com/HananeNadi)
 
